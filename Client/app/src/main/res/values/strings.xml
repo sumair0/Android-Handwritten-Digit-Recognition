@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="ip_address">IP Address :</string>
+    <string name="port_number">Port Number :</string>
+    <string name="upload">Upload</string>
+    
+    <string name="default_ip">192.168.8.106</string>
+    <string name="default_port">5000</string>
+    <string name="category">Category</string>
+
+    <string name="uploading">Uploading…</string>
+    <string name="upload_complete">Upload Complete!</string>
+    <string name="upload_error">Upload Error!</string>
+    
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Nature</item>
+        <item>People</item>
+        <item>Pets</item>
+        <item>Travel</item>
+    </string-array>
+</resources>
