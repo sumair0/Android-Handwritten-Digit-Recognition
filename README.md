@@ -43,6 +43,10 @@ The deep learning model implemented in this project is a Convolutional Neural Ne
 4. Load the saved model weights from the `saved_model` directory.
 5. Run the Flask server by executing `python server.py` in the `server` directory.
 
+## Illustration
+
+![Animated GIF](https://github.com/sumair0/Android-Handwritten-Digit-Recognition/blob/main/etc/demo.gif)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
