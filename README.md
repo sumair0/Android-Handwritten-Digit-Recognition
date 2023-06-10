@@ -2,6 +2,10 @@
 
 This repository contains the code for an Android application that allows users to take pictures of handwritten digits and performs digit recognition using a deep learning model. The application is developed using Android Studio.
 
+## Illustration
+
+![Animated GIF](https://github.com/sumair0/Android-Handwritten-Digit-Recognition/blob/main/etc/demo.gif)
+
 ## Project Description
 
 The goal of this project is to build an Android app that enables users to capture images of handwritten digits and recognize the digit present in the image. The application utilizes TensorFlow 2, a deep learning framework, and the Keras API for running the deep learning model.
@@ -43,9 +47,6 @@ The deep learning model implemented in this project is a Convolutional Neural Ne
 4. Load the saved model weights from the `saved_model` directory.
 5. Run the Flask server by executing `python server.py` in the `server` directory.
 
-## Illustration
-
-![Animated GIF](https://github.com/sumair0/Android-Handwritten-Digit-Recognition/blob/main/etc/demo.gif)
 
 ## Contributing
 
